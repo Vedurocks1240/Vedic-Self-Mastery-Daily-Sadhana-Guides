@@ -1,0 +1,17 @@
+{
+  "name": "Vedic Self-Mastery Tracker",
+  "short_name": "Sadhana",
+  "description": "60-Day Sadhana habit tracker, step-by-step guides, timer, and reminders.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
